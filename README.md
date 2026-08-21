@@ -1,2 +1,12 @@
-# cmn224-portfolio-202600137
-This portfolio is about labs and tutorials done to account for the course "Software Engineering".
+# CMN224 Portfolio
+
+**Name:** Ben Bay  
+**Student ID:** 200137  
+**Unit Code:** CMN224  
+
+This portfolio contains my labs and tutorials for the Software Engineering course.
+
+---
+
+## 📂 Repository Structure
+
